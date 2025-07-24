@@ -19,6 +19,8 @@ Return true when the key has been pressed for more than 1 frames
 `keyUp`
 Return true when the key has been released for more than 1 frames
 
+## Mouse clicks - WIP
+
 ## Example
 ```
 clear
