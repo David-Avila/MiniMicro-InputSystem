@@ -25,6 +25,8 @@ clear
 import "Input"
 
 while true
+  updateInput
+
   if keyPressed("space") then
     print "Spacebar has been pressed"
   end if
